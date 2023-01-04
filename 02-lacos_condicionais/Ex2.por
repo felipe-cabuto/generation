@@ -22,41 +22,35 @@ programa {
       escreva ("Digite a quantidade: ")
       leia(Quantidade)
       Valor = (10.00 * Quantidade)
-      escreva ("\n Produto : ", Item)
-      escreva ("\n Valor total do produto: ", "R$ ", Valor)
+      escreva ("Valor total do produto: ", "R$ ", Valor)
     }
     se (Item == 2){
       escreva ("Digite a quantidade: ")
       leia(Quantidade)
       Valor = (15.00 * Quantidade)
-      escreva ("\n Produto : ", Item)
-      escreva ("\n Valor total do produto: ", "R$ ", Valor)
+      escreva ("Valor total do produto: ", "R$ ", Valor)
     }
     se (Item == 3){
       escreva ("Digite a quantidade: ")
       leia(Quantidade)
       Valor = (18.00 * Quantidade)
-      escreva ("\n Produto : ", Item)
       escreva ("\n Valor total do produto: ", "R$ ", Valor)
     }
     se (Item == 4){
       escreva ("Digite a quantidade: ")
       leia(Quantidade)
       Valor = (12.00 * Quantidade)
-      escreva ("\n Produto : ", Item)
-      escreva ("\n Valor total do produto: ", "R$ ", Valor)
+      escreva ("Valor total do produto: ", "R$ ", Valor)
     }
     se (Item == 5){
       escreva ("Digite a quantidade: ")
       leia(Quantidade)
       Valor = (8.00 * Quantidade)
-      escreva ("\n Produto : ", Item)
-      escreva ("\n Valor total do produto: ", "R$ ", Valor)
+      escreva ("Valor total do produto: ", "R$ ", Valor)
     }
     se (Item == 6){
       escreva ("Digite a quantidade: ")
       leia(Quantidade)
       Valor = (13.00 * Quantidade)
-      escreva ("\n Produto : ", Item)
-      escreva ("\n Valor total do produto: ", "R$ ", Valor)
+      escreva ("Valor total do produto: ", "R$ ", Valor)
    }
