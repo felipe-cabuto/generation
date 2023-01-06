@@ -1,5 +1,5 @@
+//Exercício 1
 programa {
-
   funcao inicio() {
     real salario, abono, novoSalario 
 

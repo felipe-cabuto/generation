@@ -1,3 +1,4 @@
+//Exercício 4
 programa {
   funcao inicio() {
     inteiro numero1, numero2, numero3, numero4, diferenca1, diferenca2
@@ -10,12 +11,9 @@ programa {
     escreva ("Digite o número 4: ")
     leia (numero4)
 
-
    diferenca1 = numero1 * numero2
    diferenca2 = numero3 * numero4
    
    escreva ("A diferença é: ", diferenca1 - diferenca2)
-
-
   }
 }

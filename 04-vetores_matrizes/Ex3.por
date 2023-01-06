@@ -1,18 +1,18 @@
 //Exercício 3
 programa {
   funcao inicio() {
-    inteiro matrizInteiros[3][3]    
+    inteiro matriz[3][3]    
 
     para(inteiro i=0; i< 3; i++){       
       para(inteiro j=0; j<3; j++){
         escreva("Entrada: ")
         escreva("Digite um valor para a posição [", i, "][", j, "]: ")
-        leia(matrizInteiros[i][j])    
+        leia(matriz[i][j])    
       }
     }     
-    escreva("\nElementos da Diagonal Principal: ", matrizInteiros[0][0], matrizInteiros[1][1], matrizInteiros[2][2])
-    escreva("\nElementos da Diagonal Secundária: ", matrizInteiros[0][2], matrizInteiros[1][1], matrizInteiros[2][0])
-    escreva("\nSoma dos Elementos da Diagonal Principal: ", matrizInteiros[0][0] + matrizInteiros[1][1] + matrizInteiros[2][2])
-    escreva("\nSoma dos Elementos da Diagonal Secundária: ", matrizInteiros[0][2] + matrizInteiros[1][1] + matrizInteiros[2][0])
+    escreva("\nElementos da Diagonal Principal: ", matriz[0][0], matriz[1][1], matriz[2][2])
+    escreva("\nElementos da Diagonal Secundária: ", matriz[0][2], matriz[1][1], matriz[2][0])
+    escreva("\nSoma dos Elementos da Diagonal Principal: ", matriz[0][0] + matriz[1][1] + matriz[2][2])
+    escreva("\nSoma dos Elementos da Diagonal Secundária: ", matriz[0][2] + matriz[1][1] + matriz[2][0])
   }
 }

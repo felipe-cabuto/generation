@@ -1,3 +1,4 @@
+//Exercício 3
 programa {
   funcao inicio() {
     real salarioBruto, adicionalNoturno, horasExtras, desconto, salarioLiquido
@@ -16,7 +17,5 @@ programa {
 
     salarioLiquido = salarioBruto + adicionalNoturno + (horasExtras*5) - desconto
     escreva ("Salário Líquido: ", salarioLiquido)
-
-
   }
 }

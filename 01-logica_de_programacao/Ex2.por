@@ -1,5 +1,6 @@
+//Exercício 2
 programa {
-  inclua biblioteca Matematica 
+  inclua biblioteca Matematica
   funcao inicio() {
     real nota1, nota2, nota3, nota4, media
     escreva ("\n", "escreva sua nota 1: ")
