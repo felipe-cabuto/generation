@@ -1,2 +1,1 @@
-Generation Brasil
-Repositório de Exercícios realizados no Bootcamp da Generarion
+Repositório de Exercícios realizados no Bootcamp da Generarion Brasil
