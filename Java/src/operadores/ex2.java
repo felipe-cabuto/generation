@@ -1,5 +1,5 @@
 //Exercício 2
-package atividades;
+package operadores;
 
 import java.util.*;
 

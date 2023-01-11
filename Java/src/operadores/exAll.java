@@ -1,4 +1,4 @@
-//Exercício 1-4
+package operadores;//Exercício 1-4
 import java.util.*;
 
 public class ex1 {

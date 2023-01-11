@@ -1,5 +1,5 @@
 //Exercício 4
-package atividades;
+package operadores;
 
 import java.util.Scanner;
 
