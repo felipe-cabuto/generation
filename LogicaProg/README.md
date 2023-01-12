@@ -1,0 +1,5 @@
+- **[Variáveis e Constantes](https://github.com/rafaelq80/cookbook_logica_programacao/blob/main/02_logica/05_variaveis_constantes.md)**
+- **[Operadores](https://github.com/rafaelq80/cookbook_logica_programacao/blob/main/02_logica/07_operadores.md)**
+- **[Laços Condicionais](https://github.com/rafaelq80/cookbook_logica_programacao/blob/main/02_logica/09_lacos_condicionais.md)**
+- **[Laços de Repetição](https://github.com/rafaelq80/cookbook_logica_programacao/blob/main/02_logica/10_lacos_repeticao.md)**
+- **[Vetores e Matrizes](https://github.com/rafaelq80/cookbook_logica_programacao/blob/main/02_logica/11_vetores_matrizes.md)**
