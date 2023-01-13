@@ -1,6 +1,6 @@
-package lacos_de_repeticao.aula;
+package LacosRepeticao.aula;
 
-public class exemplo3 {
+public class Exemplo3 {
     public static void main(String[] args) {
 
         int contador = 0;//1 - 2

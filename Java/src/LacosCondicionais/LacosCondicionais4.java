@@ -1,9 +1,9 @@
 //Exercício 4
-package lacos_condicionais;
+package LacosCondicionais;
 
 import java.util.Scanner;
 
-public class ex4 {
+public class LacosCondicionais4 {
     public static void main(String[] args) {
         int idade;
         Scanner read = new Scanner(System.in);

@@ -1,9 +1,9 @@
 //Exercício 4
-package operadores;
+package Operadores;
 
 import java.util.Scanner;
 
-public class ex4 {
+public class Operadores4 {
     public static void main(String[] args) {
         Scanner ler = new Scanner(System.in);
         float numero1f, numero2f, numero3f, numero4f, diferencaf;

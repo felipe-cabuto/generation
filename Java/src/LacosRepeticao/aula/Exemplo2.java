@@ -1,8 +1,8 @@
-package lacos_de_repeticao.aula;
+package LacosRepeticao.aula;
 
 import java.util.Scanner;
 
-public class exemplo2 {
+public class Exemplo2 {
     public static void main(String[] args) {
         int continua = 1;
         // atribuir =

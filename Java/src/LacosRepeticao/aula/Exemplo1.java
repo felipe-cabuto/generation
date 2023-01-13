@@ -1,6 +1,6 @@
-package lacos_de_repeticao.aula;
+package LacosRepeticao.aula;
 
-public class exemplo1 {
+public class Exemplo1 {
     public static void main(String[] args) {
         System.out.println("Parabéns");
         //int contador;

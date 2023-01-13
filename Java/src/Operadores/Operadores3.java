@@ -1,9 +1,9 @@
 //Exercício 3
-package operadores;
+package Operadores;
 
 import java.util.Scanner;
 
-public class ex3 {
+public class Operadores3 {
     public static void main(String[] args) {
         Scanner ler = new Scanner(System.in);
         float salarioBrutof, adicionalNoturnof, horasExtrasf, descontosf, salarioLiquidof=0f;

@@ -1,9 +1,9 @@
 //Exercício 1
-package lacos_condicionais;
+package LacosCondicionais;
 
 import java.util.Scanner;
 
-public class ex1 {
+public class LacosCondicionais1 {
     public static void main(String[] args) {
         int a, b, c, soma;
         Scanner read = new Scanner(System.in);

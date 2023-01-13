@@ -1,9 +1,9 @@
 //Exercício 6
-package lacos_condicionais;
+package LacosCondicionais;
 
 import java.util.Scanner;
 
-public class ex6 {
+public class LacosCondicionais6 {
     public static void main(String[] args) {
         Scanner ler = new Scanner(System.in);
         String subfilo, classeAnimal, ordem;

@@ -1,9 +1,9 @@
 //Exercício 1
-package lacos_de_repeticao;
+package LacosRepeticao;
 
 import java.util.*;
 
-public class Ex1 {
+public class LacosRepeticao1 {
     public static void main(String[] args) {
         Scanner ler = new Scanner(System.in);
 

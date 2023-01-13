@@ -1,9 +1,9 @@
 //Exercício 2
-package lacos_condicionais;
+package LacosCondicionais;
 
 import java.util.Scanner;
 
-public class ex2 {
+public class LacosCondicionais2 {
     public static void main(String[] args) {
         int num;
         Scanner read = new Scanner(System.in);

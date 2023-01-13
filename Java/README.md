@@ -4,3 +4,4 @@
 - **[Laços Condicionais](https://github.com/rafaelq80/cookbook_java/blob/main/06.md)**
 - **[Laços de Repetição](https://github.com/rafaelq80/cookbook_java/blob/main/07.md)**
 - **[Vetores e Matrizes](https://github.com/rafaelq80/cookbook_java/blob/main/08.md)**
+- **[Métodos](https://github.com/rafaelq80/cookbook_java/blob/main/09.md)**

@@ -1,9 +1,9 @@
 //Exercício 5
-package lacos_condicionais;
+package LacosCondicionais;
 
 import java.util.Scanner;
 
-public class ex5 {
+public class LacosCondicionais5 {
     public static void main(String[] args) {
         Scanner ler = new Scanner(System.in);
         float salario, imposto;

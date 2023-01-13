@@ -1,9 +1,9 @@
 //Exercício 3
-package lacos_condicionais;
+package LacosCondicionais;
 
 import java.util.Scanner;
 
-public class ex3 {
+public class LacosCondicionais3 {
     public static void main(String[] args) {
         int opcao, quantidade;
         double valorTotal;

@@ -1,9 +1,9 @@
 //Exercício 2
-package operadores;
+package Operadores;
 
 import java.util.*;
 
-public class ex2 {
+public class Operadores2 {
     public static void main(String[] args) {
         Scanner ler = new Scanner(System.in);
         float nota1f, nota2f, nota3f, nota4f, mediaf;
