@@ -4,7 +4,6 @@
 //
 //public class Atividades {
 //    //Exercício 1
-//package classePOO.cliente;
 //
 //    public static void main(String[] args) {
 //        Scanner ler = new Scanner(System.in);
@@ -15,10 +14,10 @@
 //            private String nome;
 //            private String email;
 //            private int telefone;
-//            private long nascimento;
+//            private String nascimento;
 //
 //            //construtor
-//            public Cliente(int id, String nome, String email, int telefone, long nascimento) {
+//            public Cliente(int id, String nome, String email, int telefone, String nascimento) {
 //                this.id = id;
 //                this.nome = nome;
 //                this.email = email;
@@ -59,11 +58,11 @@
 //                this.telefone = telefone;
 //            }
 //
-//            public long getNascimento() {
+//            public String getNascimento() {
 //                return nascimento;
 //            }
 //
-//            public void setNascimento(long nascimento) {
+//            public void setNascimento(String nascimento) {
 //                this.nascimento = nascimento;
 //            }
 //
@@ -78,7 +77,6 @@
 //        }
 //
 //        //Exercício 2
-//package classePOO.funcionario;
 //
 //        public class Funcionario {
 //            private int id;
