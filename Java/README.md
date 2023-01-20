@@ -11,3 +11,6 @@
 - **[Programação Orientada a Objetos - Parte 02](https://github.com/rafaelq80/cookbook_java/blob/main/11.md)**
 - **[Projeto 01 - Conta Bancária - Classe Model Conta](https://github.com/rafaelq80/cookbook_java/blob/main/pr03.md)**
 - **[Projeto 01 - Conta Bancária - Heranças - Classe Conta](https://github.com/rafaelq80/cookbook_java/blob/main/pr04.md)**
+- **[Collections (Coleções)](https://github.com/rafaelq80/cookbook_java/blob/main/15.md)**
+- **[Tratamento de erros no Java - Exceptions](https://github.com/rafaelq80/cookbook_java/blob/main/12.md)**
+- **[Projeto 01 - Conta Bancária - Exceptions - Classe Menu](https://github.com/rafaelq80/cookbook_java/blob/main/pr05.md)**
