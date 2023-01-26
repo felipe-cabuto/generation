@@ -85,7 +85,7 @@
 -- SELECT * FROM tb_personagens INNER JOIN tb_classes
 -- ON tb_personagens.classes_id = tb_classes.id WHERE tb_classes.descricao = "arqueiros";
 
--- Exercício 2
+-- Exercício 6
 -- Crie um banco de dados para um serviço de uma Pizzaria com o nome db_pizzaria_legal.
 -- O sistema trabalhará com as informações dos produtos comercializados pela empresa.
 -- O sistema trabalhará com 2 tabelas tb_pizzas e tb_categorias, que deverão estar relacionadas.
